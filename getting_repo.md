@@ -6,7 +6,7 @@
 -   Cloning a repo:
     
         git clone repo_url
--   Adding a new file:
+-   Adding a new file or stage some change:
 
         git add new_file
 -   Commit a change:
