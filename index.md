@@ -1,1 +1,2 @@
 -   [Getting a repo](./getting_repo.html)
+-   [Showing logs](./showing_log.html)
