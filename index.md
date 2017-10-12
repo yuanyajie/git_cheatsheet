@@ -1,1 +1,2 @@
 -   [Getting a repo](./getting_repo.html)
+-   [Initial set up](./config.html)
