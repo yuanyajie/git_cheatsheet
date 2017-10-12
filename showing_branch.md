@@ -1,3 +1,3 @@
 -   Showing branches
     
-    git branch
+        git branch
