@@ -1,4 +1,4 @@
-# Checking differences
+# Showing differences
 
 -   Checking unstaged changes
 
