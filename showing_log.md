@@ -1,4 +1,6 @@
-- Showing log:
+# Showing log info
+
+-   Showing log:
 
         git log
         

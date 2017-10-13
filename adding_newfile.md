@@ -1,3 +1,5 @@
+# Adding file and commit changes
+
 -   Adding a new file or stage some change:
 
         git add new_file

@@ -1,3 +1,5 @@
+# Working with older version of the repo
+
 -   Checking out an old commit (detached HEAD)
 
         git checkout <commit>

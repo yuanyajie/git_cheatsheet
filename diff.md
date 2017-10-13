@@ -1,3 +1,5 @@
+# Checking differences
+
 -   Checking unstaged changes
 
         git diff

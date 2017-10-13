@@ -1,3 +1,5 @@
+# Git cheatsheet
+
 -   [Initial set up](./config.md)
 -   [Getting a repo](./getting_repo.md)
 -   [Adding a new file](./adding_newfile.md)
