@@ -4,7 +4,7 @@
     
         git config --global user.name "Yajie Yuan"
     
-        git config --global user.email yajiey@astro.princeton.edu
+        git config --global user.email <email>
     
         git config --global core.editor vim
     
