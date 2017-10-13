@@ -8,6 +8,14 @@
     
         git config --global color.ui auto
 
-- Checking your settings:
+-   Checking your settings
 
         git config --list
+
+-   Getting help
+
+	    git help config
+	
+	    git config --help
+
+	    man git-config
