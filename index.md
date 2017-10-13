@@ -1,3 +1,3 @@
--   [Getting a repo](./getting_repo.html)
--   [Initial set up](./config.html)
--   [Showing logs](./showing_log.html)
+-   [Getting a repo](./getting_repo.md)
+-   [Initial set up](./config.md)
+-   [Showing logs](./showing_log.md)
