@@ -1,4 +1,4 @@
-# Adding file and commit changes
+# Adding files and commit changes
 
 -   Adding a new file or stage some change:
 
