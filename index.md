@@ -5,4 +5,4 @@
 -   [Showing logs](./showing_log.md)
 -   [Showing differences](./diff.md)
 -   [Working with older version of the repo](./older_version.md)
--   [Working with remote repo](./remote.md)
+-   [Working with remote repo](./remote_repo.md)
