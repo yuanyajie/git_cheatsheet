@@ -9,6 +9,9 @@
 -   Pushing your repo to GitHub for the first time
 
         git push -u origin master
+    If only pushes a specific branch:
+        
+        git push -u origin <branch>
 -   Pushing your changes to the remote
 
         git push origin master
